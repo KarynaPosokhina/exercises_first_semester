@@ -1,0 +1,10 @@
+surname = str(input("What is your surname?"))
+first_name = str(input("What is your first name?"))
+street = str(input("How is your street called?"))
+number = str(input("What is the number?"))
+zip_code = str(input("What is the zip code?"))
+city = str(input("How is your city called?"))
+
+print(first_name, surname)
+print(street, number)
+print(zip_code, city)
