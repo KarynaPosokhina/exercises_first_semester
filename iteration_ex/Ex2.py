@@ -13,7 +13,7 @@ for digit in str(number):
     if digit == '6':
         sixes += 1
 
-print("The number consists of", zeros,"zeros and", sixes, "sixes")
+print(f"the number consists of {zeros} zeros and {sixes} sixes")
 
 
 
