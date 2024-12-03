@@ -1,7 +1,7 @@
 computer_choice = "rock"
 choice = str(input("What do you choose: paper, rock or scissors: "))
 if computer_choice == choice:
-    answer = "Tie!"
+    answer = "Tie <3"
 else:
     if computer_choice == "paper":
         if choice == "rock":
