@@ -1,7 +1,7 @@
 import random
 
 
-def shuffle(ordered_list):
+def shuffle(ordered_list: list) -> list:
     ordered_list_length = len(ordered_list)
     shuffled_list = []
     while len(shuffled_list) < ordered_list_length:
@@ -29,7 +29,12 @@ assert(3 in test_shuffled_list) == True
 assert(4 in test_shuffled_list) == True
 
 
-def password_structure(structure_length):
+def password_structure(structure_length: int):
+    """password_structure function returns template of password
+    as list of numbers from 1 to 4, for example, [4,3,1,2] or [1,4,3,2,1,2]
+
+    Input parameter: structure_length has type integer
+    """
     allowed_numbers = [1,2,3,4]
     initial_list = [1,2,3,4]
     for i in range(1, structure_length - len(allowed_numbers) + 1):
@@ -51,3 +56,27 @@ assert(5 in password_structure(5)) == False
 
 result = password_structure(12)
 print(f"result = {result}")
+
+def password_creator(length: int):
+    alphabet = ['a','b','c','d','e','f','g']
+    mark = ['!', '#', '$', '%', '&']
+    password = ""
+    structure_list = password_structure(length)
+    for item in structure_list:
+        match item:
+            case 1:
+                index = random.randint(0, len(alphabet) - 1)
+                item = alphabet[index]
+            case 2:
+                index = random.randint(0, len(alphabet) - 1)
+                item = alphabet[index].upper()
+            case 3:
+                item = random.randint(0,9)
+            case 4:
+                index = random.randint(0, len(mark) -1)
+                item = mark[index]
+        password += str(item)
+    return password
+
+new_password = password_creator(6)
+print(f"new password = {new_password}")
