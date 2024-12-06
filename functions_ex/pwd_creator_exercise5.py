@@ -15,10 +15,6 @@ def shuffle(ordered_list: list) -> list:
     # random.shuffle(ordered_list)
     # return ordered_list
 
-# result = shuffle([6,7,8,9,10,"jack","queen","king","ace"])
-# print(f"result = {result}")
-# [2,3,1,4]
-
 assert(len(shuffle([]))) == 0
 assert(len(shuffle([1,2]))) == 2
 assert(len(shuffle([1,2,3,4]))) == 4
@@ -80,3 +76,11 @@ def password_creator(length: int):
 
 new_password = password_creator(6)
 print(f"new password = {new_password}")
+
+amount = int(input("How many passwords do you want to generate?: "))
+length_pwd = int(input("What should be the length of the password?: "))
+if length_pwd < 4:
+    print('Password that will be generated, will have minimum length of 4')
+
+for k in range(amount):
+    print(password_creator(length_pwd))
