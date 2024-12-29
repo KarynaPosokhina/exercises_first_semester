@@ -1,0 +1,8 @@
+   1 with open("playlist.txt", "r") as file:
+   2     lines = file.readlines()
+   3     print('Playlist:')
+   4     for line in lines:
+   5         if line != '/n':
+   6             text = line.split(";")
+   7             print(text[0],"\t",text[1],text[2],end="")
+   8 
