@@ -1,10 +1,7 @@
-with open("first_names.txt", "r") as file:
-    for line in file:
-        print(line.strip())
-
 names = 0
 with open("first_names.txt", "r") as file:
     for line in file:
+        print(line.strip())
         names += 1
 
 print(f"There are {names} first names in the file")

@@ -1,6 +1,5 @@
 import random
 
-
 def shuffle(ordered_list: list) -> list:
     ordered_list_length = len(ordered_list)
     shuffled_list = []
