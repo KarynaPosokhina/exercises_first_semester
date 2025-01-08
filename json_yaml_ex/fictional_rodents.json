@@ -1,0 +1,36 @@
+{
+    "Squirrels": [
+        {
+            "Character": "Urchin",
+            "Author": "M.I. McAllister",
+            "Work": "The Mistmantle Chronicles",
+            "Notes": "A red squirrel with peculiar coloring."
+        },
+        {
+            "Character": "Bannertail",
+            "Author": "Ernest Thompson Seton",
+            "Work": "Bannertail: The Story of a Graysquirrel",
+            "Notes": "A gray squirrel. Orphaned as a baby, he was taken in and raised by a cat. Adapted into an anime series."
+        },
+        {
+            "character": "Felldoh",
+            "author": "Brian Jacques",
+            "work": "Martin the Warrior",
+            "notes": "A young red squirrel"
+        }
+    ],
+    "Mice": [
+        {
+            "Character": "Albert",
+            "Author": "Eleanor May",
+            "Work": "Mouse Math series",
+            "Notes": "A playful mouse who spends time with his sister Wanda."
+        },
+        {
+            "Character": "Algernon",
+            "Author": "Daniel Keyes",
+            "Work": "Flowers for Algernon",
+            "Notes": "A laboratory mouse who has undergone surgery to increase his intelligence by artificial means."
+        }
+    ]
+}
