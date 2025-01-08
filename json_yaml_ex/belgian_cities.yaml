@@ -1,0 +1,25 @@
+belgian_cities:
+- name: Brussels
+  population: 1208542
+  official_language: Dutch, French
+  landmarks:
+  - Grand Place
+  - Atomium
+  - Manneken Pis
+  is_capital: true
+- name: Antwerp
+  population: 525935
+  official_language: Dutch
+  landmarks:
+  - Cathedral of Our Lady
+  - Antwerp Zoo
+  - MAS Museum
+  is_capital: false
+- name: Ghent
+  population: 26219
+  official_language: Dutch
+  landmarks:
+  - Gravensteen Castle
+  - Saint Bavo's Cathedral
+  - Graslei and Korenlei
+  is_capital: false
