@@ -1,0 +1,31 @@
+{
+   "Club orders": {
+      "Karyna": {
+         "shorts": {
+            "short large": 1
+         },
+         "tshirts": {
+            "t-shirt small": 1
+         },
+         "backpacks": 1
+      },
+      "Tomislav": {
+         "shorts": {
+            "short large": 1
+         },
+         "tshirts": {
+            "t-shirt medium": 1
+         },
+         "backpacks": 1
+      },
+      "ray": {
+         "shorts": {
+            "short extra large": 1
+         },
+         "tshirts": {
+            "t-shirt large": 1
+         },
+         "backpacks": 1
+      }
+   }
+}
