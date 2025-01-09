@@ -1,0 +1,1977 @@
+results:
+-  matches:
+   -  date: '2015-08-08'
+      home: Manchester United FC
+      score:
+         final: 1-0
+      visitors: Tottenham Hotspur FC
+   -  date: '2015-08-08'
+      home: AFC Bournemouth
+      score:
+         final: 0-1
+      visitors: Aston Villa FC
+   -  date: '2015-08-08'
+      home: Leicester City FC
+      score:
+         final: 4-2
+      visitors: Sunderland AFC
+   -  date: '2015-08-08'
+      home: Norwich City FC
+      score:
+         final: 1-3
+      visitors: Crystal Palace FC
+   -  date: '2015-08-08'
+      home: Chelsea FC
+      score:
+         final: 2-2
+      visitors: Swansea City FC
+   -  date: '2015-08-08'
+      home: Everton FC
+      score:
+         final: 2-2
+      visitors: Watford FC
+   -  date: '2015-08-09'
+      home: Arsenal FC
+      score:
+         final: 0-2
+      visitors: West Ham United FC
+   -  date: '2015-08-09'
+      home: Newcastle United FC
+      score:
+         final: 2-2
+      visitors: Southampton FC
+   -  date: '2015-08-09'
+      home: Stoke City FC
+      score:
+         final: 0-1
+      visitors: Liverpool FC
+   -  date: '2015-08-10'
+      home: West Bromwich Albion FC
+      score:
+         final: 0-3
+      visitors: Manchester City FC
+   name: Matchday 1
+-  matches:
+   -  date: '2015-08-14'
+      home: Aston Villa FC
+      score:
+         final: 0-1
+      visitors: Manchester United FC
+   -  date: '2015-08-15'
+      home: West Ham United FC
+      score:
+         final: 1-2
+      visitors: Leicester City FC
+   -  date: '2015-08-15'
+      home: Southampton FC
+      score:
+         final: 0-3
+      visitors: Everton FC
+   -  date: '2015-08-15'
+      home: Sunderland AFC
+      score:
+         final: 1-3
+      visitors: Norwich City FC
+   -  date: '2015-08-15'
+      home: Swansea City FC
+      score:
+         final: 2-0
+      visitors: Newcastle United FC
+   -  date: '2015-08-15'
+      home: Watford FC
+      score:
+         final: 0-0
+      visitors: West Bromwich Albion FC
+   -  date: '2015-08-15'
+      home: Tottenham Hotspur FC
+      score:
+         final: 2-2
+      visitors: Stoke City FC
+   -  date: '2015-08-16'
+      home: Crystal Palace FC
+      score:
+         final: 1-2
+      visitors: Arsenal FC
+   -  date: '2015-08-16'
+      home: Manchester City FC
+      score:
+         final: 3-0
+      visitors: Chelsea FC
+   -  date: '2015-08-17'
+      home: Liverpool FC
+      score:
+         final: 1-0
+      visitors: AFC Bournemouth
+   name: Matchday 2
+-  matches:
+   -  date: '2015-08-22'
+      home: West Ham United FC
+      score:
+         final: 3-4
+      visitors: AFC Bournemouth
+   -  date: '2015-08-22'
+      home: Manchester United FC
+      score:
+         final: 0-0
+      visitors: Newcastle United FC
+   -  date: '2015-08-22'
+      home: Sunderland AFC
+      score:
+         final: 1-1
+      visitors: Swansea City FC
+   -  date: '2015-08-22'
+      home: Leicester City FC
+      score:
+         final: 1-1
+      visitors: Tottenham Hotspur FC
+   -  date: '2015-08-22'
+      home: Crystal Palace FC
+      score:
+         final: 2-1
+      visitors: Aston Villa FC
+   -  date: '2015-08-22'
+      home: Norwich City FC
+      score:
+         final: 1-1
+      visitors: Stoke City FC
+   -  date: '2015-08-23'
+      home: West Bromwich Albion FC
+      score:
+         final: 2-3
+      visitors: Chelsea FC
+   -  date: '2015-08-23'
+      home: Everton FC
+      score:
+         final: 0-2
+      visitors: Manchester City FC
+   -  date: '2015-08-23'
+      home: Watford FC
+      score:
+         final: 0-0
+      visitors: Southampton FC
+   -  date: '2015-08-24'
+      home: Arsenal FC
+      score:
+         final: 0-0
+      visitors: Liverpool FC
+   name: Matchday 3
+-  matches:
+   -  date: '2015-08-29'
+      home: Aston Villa FC
+      score:
+         final: 2-2
+      visitors: Sunderland AFC
+   -  date: '2015-08-29'
+      home: Newcastle United FC
+      score:
+         final: 0-1
+      visitors: Arsenal FC
+   -  date: '2015-08-29'
+      home: Stoke City FC
+      score:
+         final: 0-1
+      visitors: West Bromwich Albion FC
+   -  date: '2015-08-29'
+      home: AFC Bournemouth
+      score:
+         final: 1-1
+      visitors: Leicester City FC
+   -  date: '2015-08-29'
+      home: Liverpool FC
+      score:
+         final: 0-3
+      visitors: West Ham United FC
+   -  date: '2015-08-29'
+      home: Manchester City FC
+      score:
+         final: 2-0
+      visitors: Watford FC
+   -  date: '2015-08-29'
+      home: Chelsea FC
+      score:
+         final: 1-2
+      visitors: Crystal Palace FC
+   -  date: '2015-08-29'
+      home: Tottenham Hotspur FC
+      score:
+         final: 0-0
+      visitors: Everton FC
+   -  date: '2015-08-30'
+      home: Southampton FC
+      score:
+         final: 3-0
+      visitors: Norwich City FC
+   -  date: '2015-08-30'
+      home: Swansea City FC
+      score:
+         final: 2-1
+      visitors: Manchester United FC
+   name: Matchday 4
+-  matches:
+   -  date: '2015-09-12'
+      home: West Bromwich Albion FC
+      score:
+         final: 0-0
+      visitors: Southampton FC
+   -  date: '2015-09-12'
+      home: Arsenal FC
+      score:
+         final: 2-0
+      visitors: Stoke City FC
+   -  date: '2015-09-12'
+      home: Everton FC
+      score:
+         final: 3-1
+      visitors: Chelsea FC
+   -  date: '2015-09-12'
+      home: Manchester United FC
+      score:
+         final: 3-1
+      visitors: Liverpool FC
+   -  date: '2015-09-12'
+      home: Norwich City FC
+      score:
+         final: 3-1
+      visitors: AFC Bournemouth
+   -  date: '2015-09-12'
+      home: Crystal Palace FC
+      score:
+         final: 0-1
+      visitors: Manchester City FC
+   -  date: '2015-09-12'
+      home: Watford FC
+      score:
+         final: 1-0
+      visitors: Swansea City FC
+   -  date: '2015-09-13'
+      home: Sunderland AFC
+      score:
+         final: 0-1
+      visitors: Tottenham Hotspur FC
+   -  date: '2015-09-13'
+      home: Leicester City FC
+      score:
+         final: 3-2
+      visitors: Aston Villa FC
+   -  date: '2015-09-14'
+      home: West Ham United FC
+      score:
+         final: 2-0
+      visitors: Newcastle United FC
+   name: Matchday 5
+-  matches:
+   -  date: '2015-09-19'
+      home: Chelsea FC
+      score:
+         final: 2-0
+      visitors: Arsenal FC
+   -  date: '2015-09-19'
+      home: Swansea City FC
+      score:
+         final: 0-0
+      visitors: Everton FC
+   -  date: '2015-09-19'
+      home: Newcastle United FC
+      score:
+         final: 1-2
+      visitors: Watford FC
+   -  date: '2015-09-19'
+      home: Aston Villa FC
+      score:
+         final: 0-1
+      visitors: West Bromwich Albion FC
+   -  date: '2015-09-19'
+      home: Manchester City FC
+      score:
+         final: 1-2
+      visitors: West Ham United FC
+   -  date: '2015-09-19'
+      home: AFC Bournemouth
+      score:
+         final: 2-0
+      visitors: Sunderland AFC
+   -  date: '2015-09-19'
+      home: Stoke City FC
+      score:
+         final: 2-2
+      visitors: Leicester City FC
+   -  date: '2015-09-20'
+      home: Tottenham Hotspur FC
+      score:
+         final: 1-0
+      visitors: Crystal Palace FC
+   -  date: '2015-09-20'
+      home: Southampton FC
+      score:
+         final: 2-3
+      visitors: Manchester United FC
+   -  date: '2015-09-20'
+      home: Liverpool FC
+      score:
+         final: 1-1
+      visitors: Norwich City FC
+   name: Matchday 6
+-  matches:
+   -  date: '2015-09-26'
+      home: Tottenham Hotspur FC
+      score:
+         final: 4-1
+      visitors: Manchester City FC
+   -  date: '2015-09-26'
+      home: Liverpool FC
+      score:
+         final: 3-2
+      visitors: Aston Villa FC
+   -  date: '2015-09-26'
+      home: West Ham United FC
+      score:
+         final: 2-2
+      visitors: Norwich City FC
+   -  date: '2015-09-26'
+      home: Newcastle United FC
+      score:
+         final: 2-2
+      visitors: Chelsea FC
+   -  date: '2015-09-26'
+      home: Manchester United FC
+      score:
+         final: 3-0
+      visitors: Sunderland AFC
+   -  date: '2015-09-26'
+      home: Leicester City FC
+      score:
+         final: 2-5
+      visitors: Arsenal FC
+   -  date: '2015-09-26'
+      home: Stoke City FC
+      score:
+         final: 2-1
+      visitors: AFC Bournemouth
+   -  date: '2015-09-26'
+      home: Southampton FC
+      score:
+         final: 3-1
+      visitors: Swansea City FC
+   -  date: '2015-09-27'
+      home: Watford FC
+      score:
+         final: 0-1
+      visitors: Crystal Palace FC
+   -  date: '2015-09-28'
+      home: West Bromwich Albion FC
+      score:
+         final: 2-3
+      visitors: Everton FC
+   name: Matchday 7
+-  matches:
+   -  date: '2015-10-03'
+      home: Aston Villa FC
+      score:
+         final: 0-1
+      visitors: Stoke City FC
+   -  date: '2015-10-03'
+      home: AFC Bournemouth
+      score:
+         final: 1-1
+      visitors: Watford FC
+   -  date: '2015-10-03'
+      home: Crystal Palace FC
+      score:
+         final: 2-0
+      visitors: West Bromwich Albion FC
+   -  date: '2015-10-03'
+      home: Norwich City FC
+      score:
+         final: 1-2
+      visitors: Leicester City FC
+   -  date: '2015-10-03'
+      home: Chelsea FC
+      score:
+         final: 1-3
+      visitors: Southampton FC
+   -  date: '2015-10-03'
+      home: Sunderland AFC
+      score:
+         final: 2-2
+      visitors: West Ham United FC
+   -  date: '2015-10-03'
+      home: Manchester City FC
+      score:
+         final: 6-1
+      visitors: Newcastle United FC
+   -  date: '2015-10-04'
+      home: Everton FC
+      score:
+         final: 1-1
+      visitors: Liverpool FC
+   -  date: '2015-10-04'
+      home: Arsenal FC
+      score:
+         final: 3-0
+      visitors: Manchester United FC
+   -  date: '2015-10-04'
+      home: Swansea City FC
+      score:
+         final: 2-2
+      visitors: Tottenham Hotspur FC
+   name: Matchday 8
+-  matches:
+   -  date: '2015-10-17'
+      home: Crystal Palace FC
+      score:
+         final: 1-3
+      visitors: West Ham United FC
+   -  date: '2015-10-17'
+      home: Manchester City FC
+      score:
+         final: 5-1
+      visitors: AFC Bournemouth
+   -  date: '2015-10-17'
+      home: Tottenham Hotspur FC
+      score:
+         final: 0-0
+      visitors: Liverpool FC
+   -  date: '2015-10-17'
+      home: Everton FC
+      score:
+         final: 0-3
+      visitors: Manchester United FC
+   -  date: '2015-10-17'
+      home: Southampton FC
+      score:
+         final: 2-2
+      visitors: Leicester City FC
+   -  date: '2015-10-17'
+      home: Chelsea FC
+      score:
+         final: 2-0
+      visitors: Aston Villa FC
+   -  date: '2015-10-17'
+      home: West Bromwich Albion FC
+      score:
+         final: 1-0
+      visitors: Sunderland AFC
+   -  date: '2015-10-17'
+      home: Watford FC
+      score:
+         final: 0-3
+      visitors: Arsenal FC
+   -  date: '2015-10-18'
+      home: Newcastle United FC
+      score:
+         final: 6-2
+      visitors: Norwich City FC
+   -  date: '2015-10-19'
+      home: Swansea City FC
+      score:
+         final: 0-1
+      visitors: Stoke City FC
+   name: Matchday 9
+-  matches:
+   -  date: '2015-10-24'
+      home: Aston Villa FC
+      score:
+         final: 1-2
+      visitors: Swansea City FC
+   -  date: '2015-10-24'
+      home: Leicester City FC
+      score:
+         final: 1-0
+      visitors: Crystal Palace FC
+   -  date: '2015-10-24'
+      home: Stoke City FC
+      score:
+         final: 0-2
+      visitors: Watford FC
+   -  date: '2015-10-24'
+      home: Norwich City FC
+      score:
+         final: 0-1
+      visitors: West Bromwich Albion FC
+   -  date: '2015-10-24'
+      home: Arsenal FC
+      score:
+         final: 2-1
+      visitors: Everton FC
+   -  date: '2015-10-24'
+      home: West Ham United FC
+      score:
+         final: 2-1
+      visitors: Chelsea FC
+   -  date: '2015-10-25'
+      home: Sunderland AFC
+      score:
+         final: 3-0
+      visitors: Newcastle United FC
+   -  date: '2015-10-25'
+      home: AFC Bournemouth
+      score:
+         final: 1-5
+      visitors: Tottenham Hotspur FC
+   -  date: '2015-10-25'
+      home: Liverpool FC
+      score:
+         final: 1-1
+      visitors: Southampton FC
+   -  date: '2015-10-25'
+      home: Manchester United FC
+      score:
+         final: 0-0
+      visitors: Manchester City FC
+   name: Matchday 10
+-  matches:
+   -  date: '2015-10-31'
+      home: Chelsea FC
+      score:
+         final: 1-3
+      visitors: Liverpool FC
+   -  date: '2015-10-31'
+      home: Newcastle United FC
+      score:
+         final: 0-0
+      visitors: Stoke City FC
+   -  date: '2015-10-31'
+      home: Crystal Palace FC
+      score:
+         final: 0-0
+      visitors: Manchester United FC
+   -  date: '2015-10-31'
+      home: Manchester City FC
+      score:
+         final: 2-1
+      visitors: Norwich City FC
+   -  date: '2015-10-31'
+      home: Swansea City FC
+      score:
+         final: 0-3
+      visitors: Arsenal FC
+   -  date: '2015-10-31'
+      home: West Bromwich Albion FC
+      score:
+         final: 2-3
+      visitors: Leicester City FC
+   -  date: '2015-10-31'
+      home: Watford FC
+      score:
+         final: 2-0
+      visitors: West Ham United FC
+   -  date: '2015-11-01'
+      home: Everton FC
+      score:
+         final: 6-2
+      visitors: Sunderland AFC
+   -  date: '2015-11-01'
+      home: Southampton FC
+      score:
+         final: 2-0
+      visitors: AFC Bournemouth
+   -  date: '2015-11-02'
+      home: Tottenham Hotspur FC
+      score:
+         final: 3-1
+      visitors: Aston Villa FC
+   name: Matchday 11
+-  matches:
+   -  date: '2015-11-07'
+      home: West Ham United FC
+      score:
+         final: 1-1
+      visitors: Everton FC
+   -  date: '2015-11-07'
+      home: Leicester City FC
+      score:
+         final: 2-1
+      visitors: Watford FC
+   -  date: '2015-11-07'
+      home: AFC Bournemouth
+      score:
+         final: 0-1
+      visitors: Newcastle United FC
+   -  date: '2015-11-07'
+      home: Stoke City FC
+      score:
+         final: 1-0
+      visitors: Chelsea FC
+   -  date: '2015-11-07'
+      home: Norwich City FC
+      score:
+         final: 1-0
+      visitors: Swansea City FC
+   -  date: '2015-11-07'
+      home: Sunderland AFC
+      score:
+         final: 0-1
+      visitors: Southampton FC
+   -  date: '2015-11-07'
+      home: Manchester United FC
+      score:
+         final: 2-0
+      visitors: West Bromwich Albion FC
+   -  date: '2015-11-08'
+      home: Aston Villa FC
+      score:
+         final: 0-0
+      visitors: Manchester City FC
+   -  date: '2015-11-08'
+      home: Arsenal FC
+      score:
+         final: 1-1
+      visitors: Tottenham Hotspur FC
+   -  date: '2015-11-08'
+      home: Liverpool FC
+      score:
+         final: 1-2
+      visitors: Crystal Palace FC
+   name: Matchday 12
+-  matches:
+   -  date: '2015-11-21'
+      home: West Bromwich Albion FC
+      score:
+         final: 2-1
+      visitors: Arsenal FC
+   -  date: '2015-11-21'
+      home: Everton FC
+      score:
+         final: 4-0
+      visitors: Aston Villa FC
+   -  date: '2015-11-21'
+      home: Watford FC
+      score:
+         final: 1-2
+      visitors: Manchester United FC
+   -  date: '2015-11-21'
+      home: Chelsea FC
+      score:
+         final: 1-0
+      visitors: Norwich City FC
+   -  date: '2015-11-21'
+      home: Manchester City FC
+      score:
+         final: 1-4
+      visitors: Liverpool FC
+   -  date: '2015-11-21'
+      home: Southampton FC
+      score:
+         final: 0-1
+      visitors: Stoke City FC
+   -  date: '2015-11-21'
+      home: Swansea City FC
+      score:
+         final: 2-2
+      visitors: AFC Bournemouth
+   -  date: '2015-11-21'
+      home: Newcastle United FC
+      score:
+         final: 0-3
+      visitors: Leicester City FC
+   -  date: '2015-11-22'
+      home: Tottenham Hotspur FC
+      score:
+         final: 4-1
+      visitors: West Ham United FC
+   -  date: '2015-11-23'
+      home: Crystal Palace FC
+      score:
+         final: 0-1
+      visitors: Sunderland AFC
+   name: Matchday 13
+-  matches:
+   -  date: '2015-11-28'
+      home: Manchester City FC
+      score:
+         final: 3-1
+      visitors: Southampton FC
+   -  date: '2015-11-28'
+      home: Crystal Palace FC
+      score:
+         final: 5-1
+      visitors: Newcastle United FC
+   -  date: '2015-11-28'
+      home: Aston Villa FC
+      score:
+         final: 2-3
+      visitors: Watford FC
+   -  date: '2015-11-28'
+      home: Leicester City FC
+      score:
+         final: 1-1
+      visitors: Manchester United FC
+   -  date: '2015-11-28'
+      home: AFC Bournemouth
+      score:
+         final: 3-3
+      visitors: Everton FC
+   -  date: '2015-11-28'
+      home: Sunderland AFC
+      score:
+         final: 2-0
+      visitors: Stoke City FC
+   -  date: '2015-11-29'
+      home: Tottenham Hotspur FC
+      score:
+         final: 0-0
+      visitors: Chelsea FC
+   -  date: '2015-11-29'
+      home: West Ham United FC
+      score:
+         final: 1-1
+      visitors: West Bromwich Albion FC
+   -  date: '2015-11-29'
+      home: Norwich City FC
+      score:
+         final: 1-1
+      visitors: Arsenal FC
+   -  date: '2015-11-29'
+      home: Liverpool FC
+      score:
+         final: 1-0
+      visitors: Swansea City FC
+   name: Matchday 14
+-  matches:
+   -  date: '2015-12-05'
+      home: Stoke City FC
+      score:
+         final: 2-0
+      visitors: Manchester City FC
+   -  date: '2015-12-05'
+      home: Arsenal FC
+      score:
+         final: 3-1
+      visitors: Sunderland AFC
+   -  date: '2015-12-05'
+      home: Watford FC
+      score:
+         final: 2-0
+      visitors: Norwich City FC
+   -  date: '2015-12-05'
+      home: Manchester United FC
+      score:
+         final: 0-0
+      visitors: West Ham United FC
+   -  date: '2015-12-05'
+      home: Swansea City FC
+      score:
+         final: 0-3
+      visitors: Leicester City FC
+   -  date: '2015-12-05'
+      home: West Bromwich Albion FC
+      score:
+         final: 1-1
+      visitors: Tottenham Hotspur FC
+   -  date: '2015-12-05'
+      home: Southampton FC
+      score:
+         final: 1-1
+      visitors: Aston Villa FC
+   -  date: '2015-12-05'
+      home: Chelsea FC
+      score:
+         final: 0-1
+      visitors: AFC Bournemouth
+   -  date: '2015-12-06'
+      home: Newcastle United FC
+      score:
+         final: 2-0
+      visitors: Liverpool FC
+   -  date: '2015-12-07'
+      home: Everton FC
+      score:
+         final: 1-1
+      visitors: Crystal Palace FC
+   name: Matchday 15
+-  matches:
+   -  date: '2015-12-12'
+      home: Norwich City FC
+      score:
+         final: 1-1
+      visitors: Everton FC
+   -  date: '2015-12-12'
+      home: Crystal Palace FC
+      score:
+         final: 1-0
+      visitors: Southampton FC
+   -  date: '2015-12-12'
+      home: Manchester City FC
+      score:
+         final: 2-1
+      visitors: Swansea City FC
+   -  date: '2015-12-12'
+      home: AFC Bournemouth
+      score:
+         final: 2-1
+      visitors: Manchester United FC
+   -  date: '2015-12-12'
+      home: West Ham United FC
+      score:
+         final: 0-0
+      visitors: Stoke City FC
+   -  date: '2015-12-12'
+      home: Sunderland AFC
+      score:
+         final: 0-1
+      visitors: Watford FC
+   -  date: '2015-12-13'
+      home: Aston Villa FC
+      score:
+         final: 0-2
+      visitors: Arsenal FC
+   -  date: '2015-12-13'
+      home: Tottenham Hotspur FC
+      score:
+         final: 1-2
+      visitors: Newcastle United FC
+   -  date: '2015-12-13'
+      home: Liverpool FC
+      score:
+         final: 2-2
+      visitors: West Bromwich Albion FC
+   -  date: '2015-12-14'
+      home: Leicester City FC
+      score:
+         final: 2-1
+      visitors: Chelsea FC
+   name: Matchday 16
+-  matches:
+   -  date: '2015-12-19'
+      home: Southampton FC
+      score:
+         final: 0-2
+      visitors: Tottenham Hotspur FC
+   -  date: '2015-12-19'
+      home: Everton FC
+      score:
+         final: 2-3
+      visitors: Leicester City FC
+   -  date: '2015-12-19'
+      home: Stoke City FC
+      score:
+         final: 1-2
+      visitors: Crystal Palace FC
+   -  date: '2015-12-19'
+      home: West Bromwich Albion FC
+      score:
+         final: 1-2
+      visitors: AFC Bournemouth
+   -  date: '2015-12-19'
+      home: Newcastle United FC
+      score:
+         final: 1-1
+      visitors: Aston Villa FC
+   -  date: '2015-12-19'
+      home: Manchester United FC
+      score:
+         final: 1-2
+      visitors: Norwich City FC
+   -  date: '2015-12-19'
+      home: Chelsea FC
+      score:
+         final: 3-1
+      visitors: Sunderland AFC
+   -  date: '2015-12-20'
+      home: Watford FC
+      score:
+         final: 3-0
+      visitors: Liverpool FC
+   -  date: '2015-12-20'
+      home: Swansea City FC
+      score:
+         final: 0-0
+      visitors: West Ham United FC
+   -  date: '2015-12-21'
+      home: Arsenal FC
+      score:
+         final: 2-1
+      visitors: Manchester City FC
+   name: Matchday 17
+-  matches:
+   -  date: '2015-12-26'
+      home: Southampton FC
+      score:
+         final: 4-0
+      visitors: Arsenal FC
+   -  date: '2015-12-26'
+      home: Swansea City FC
+      score:
+         final: 1-0
+      visitors: West Bromwich Albion FC
+   -  date: '2015-12-26'
+      home: AFC Bournemouth
+      score:
+         final: 0-0
+      visitors: Crystal Palace FC
+   -  date: '2015-12-26'
+      home: Stoke City FC
+      score:
+         final: 2-0
+      visitors: Manchester United FC
+   -  date: '2015-12-26'
+      home: Aston Villa FC
+      score:
+         final: 1-1
+      visitors: West Ham United FC
+   -  date: '2015-12-26'
+      home: Chelsea FC
+      score:
+         final: 2-2
+      visitors: Watford FC
+   -  date: '2015-12-26'
+      home: Tottenham Hotspur FC
+      score:
+         final: 3-0
+      visitors: Norwich City FC
+   -  date: '2015-12-26'
+      home: Liverpool FC
+      score:
+         final: 1-0
+      visitors: Leicester City FC
+   -  date: '2015-12-26'
+      home: Newcastle United FC
+      score:
+         final: 0-1
+      visitors: Everton FC
+   -  date: '2015-12-26'
+      home: Manchester City FC
+      score:
+         final: 4-1
+      visitors: Sunderland AFC
+   name: Matchday 18
+-  matches:
+   -  date: '2015-12-28'
+      home: Crystal Palace FC
+      score:
+         final: 0-0
+      visitors: Swansea City FC
+   -  date: '2015-12-28'
+      home: Norwich City FC
+      score:
+         final: 2-0
+      visitors: Aston Villa FC
+   -  date: '2015-12-28'
+      home: West Bromwich Albion FC
+      score:
+         final: 1-0
+      visitors: Newcastle United FC
+   -  date: '2015-12-28'
+      home: Everton FC
+      score:
+         final: 3-4
+      visitors: Stoke City FC
+   -  date: '2015-12-28'
+      home: Watford FC
+      score:
+         final: 1-2
+      visitors: Tottenham Hotspur FC
+   -  date: '2015-12-28'
+      home: West Ham United FC
+      score:
+         final: 2-1
+      visitors: Southampton FC
+   -  date: '2015-12-28'
+      home: Manchester United FC
+      score:
+         final: 0-0
+      visitors: Chelsea FC
+   -  date: '2015-12-28'
+      home: Arsenal FC
+      score:
+         final: 2-0
+      visitors: AFC Bournemouth
+   -  date: '2015-12-29'
+      home: Leicester City FC
+      score:
+         final: 0-0
+      visitors: Manchester City FC
+   -  date: '2015-12-30'
+      home: Sunderland AFC
+      score:
+         final: 0-1
+      visitors: Liverpool FC
+   name: Matchday 19
+-  matches:
+   -  date: '2016-01-02'
+      home: Sunderland AFC
+      score:
+         final: 3-1
+      visitors: Aston Villa FC
+   -  date: '2016-01-02'
+      home: West Bromwich Albion FC
+      score:
+         final: 2-1
+      visitors: Stoke City FC
+   -  date: '2016-01-02'
+      home: Manchester United FC
+      score:
+         final: 2-1
+      visitors: Swansea City FC
+   -  date: '2016-01-02'
+      home: Watford FC
+      score:
+         final: 1-2
+      visitors: Manchester City FC
+   -  date: '2016-01-02'
+      home: Leicester City FC
+      score:
+         final: 0-0
+      visitors: AFC Bournemouth
+   -  date: '2016-01-02'
+      home: Norwich City FC
+      score:
+         final: 1-0
+      visitors: Southampton FC
+   -  date: '2016-01-02'
+      home: Arsenal FC
+      score:
+         final: 1-0
+      visitors: Newcastle United FC
+   -  date: '2016-01-02'
+      home: West Ham United FC
+      score:
+         final: 2-0
+      visitors: Liverpool FC
+   -  date: '2016-01-03'
+      home: Crystal Palace FC
+      score:
+         final: 0-3
+      visitors: Chelsea FC
+   -  date: '2016-01-03'
+      home: Everton FC
+      score:
+         final: 1-1
+      visitors: Tottenham Hotspur FC
+   name: Matchday 20
+-  matches:
+   -  date: '2016-01-12'
+      home: Newcastle United FC
+      score:
+         final: 3-3
+      visitors: Manchester United FC
+   -  date: '2016-01-12'
+      home: Aston Villa FC
+      score:
+         final: 1-0
+      visitors: Crystal Palace FC
+   -  date: '2016-01-12'
+      home: AFC Bournemouth
+      score:
+         final: 1-3
+      visitors: West Ham United FC
+   -  date: '2016-01-13'
+      home: Stoke City FC
+      score:
+         final: 3-1
+      visitors: Norwich City FC
+   -  date: '2016-01-13'
+      home: Southampton FC
+      score:
+         final: 2-0
+      visitors: Watford FC
+   -  date: '2016-01-13'
+      home: Chelsea FC
+      score:
+         final: 2-2
+      visitors: West Bromwich Albion FC
+   -  date: '2016-01-13'
+      home: Swansea City FC
+      score:
+         final: 2-4
+      visitors: Sunderland AFC
+   -  date: '2016-01-13'
+      home: Liverpool FC
+      score:
+         final: 3-3
+      visitors: Arsenal FC
+   -  date: '2016-01-13'
+      home: Tottenham Hotspur FC
+      score:
+         final: 0-1
+      visitors: Leicester City FC
+   -  date: '2016-01-13'
+      home: Manchester City FC
+      score:
+         final: 0-0
+      visitors: Everton FC
+   name: Matchday 21
+-  matches:
+   -  date: '2016-01-16'
+      home: Tottenham Hotspur FC
+      score:
+         final: 4-1
+      visitors: Sunderland AFC
+   -  date: '2016-01-16'
+      home: Southampton FC
+      score:
+         final: 3-0
+      visitors: West Bromwich Albion FC
+   -  date: '2016-01-16'
+      home: Aston Villa FC
+      score:
+         final: 1-1
+      visitors: Leicester City FC
+   -  date: '2016-01-16'
+      home: AFC Bournemouth
+      score:
+         final: 3-0
+      visitors: Norwich City FC
+   -  date: '2016-01-16'
+      home: Chelsea FC
+      score:
+         final: 3-3
+      visitors: Everton FC
+   -  date: '2016-01-16'
+      home: Newcastle United FC
+      score:
+         final: 2-1
+      visitors: West Ham United FC
+   -  date: '2016-01-16'
+      home: Manchester City FC
+      score:
+         final: 4-0
+      visitors: Crystal Palace FC
+   -  date: '2016-01-17'
+      home: Liverpool FC
+      score:
+         final: 0-1
+      visitors: Manchester United FC
+   -  date: '2016-01-17'
+      home: Stoke City FC
+      score:
+         final: 0-0
+      visitors: Arsenal FC
+   -  date: '2016-01-18'
+      home: Swansea City FC
+      score:
+         final: 1-0
+      visitors: Watford FC
+   name: Matchday 22
+-  matches:
+   -  date: '2016-01-23'
+      home: West Ham United FC
+      score:
+         final: 2-2
+      visitors: Manchester City FC
+   -  date: '2016-01-23'
+      home: Manchester United FC
+      score:
+         final: 0-1
+      visitors: Southampton FC
+   -  date: '2016-01-23'
+      home: Norwich City FC
+      score:
+         final: 4-5
+      visitors: Liverpool FC
+   -  date: '2016-01-23'
+      home: Watford FC
+      score:
+         final: 2-1
+      visitors: Newcastle United FC
+   -  date: '2016-01-23'
+      home: Leicester City FC
+      score:
+         final: 3-0
+      visitors: Stoke City FC
+   -  date: '2016-01-23'
+      home: Sunderland AFC
+      score:
+         final: 1-1
+      visitors: AFC Bournemouth
+   -  date: '2016-01-23'
+      home: Crystal Palace FC
+      score:
+         final: 1-3
+      visitors: Tottenham Hotspur FC
+   -  date: '2016-01-23'
+      home: West Bromwich Albion FC
+      score:
+         final: 0-0
+      visitors: Aston Villa FC
+   -  date: '2016-01-24'
+      home: Everton FC
+      score:
+         final: 1-2
+      visitors: Swansea City FC
+   -  date: '2016-01-24'
+      home: Arsenal FC
+      score:
+         final: 0-1
+      visitors: Chelsea FC
+   name: Matchday 23
+-  matches:
+   -  date: '2016-02-02'
+      home: Arsenal FC
+      score:
+         final: 0-0
+      visitors: Southampton FC
+   -  date: '2016-02-02'
+      home: West Ham United FC
+      score:
+         final: 2-0
+      visitors: Aston Villa FC
+   -  date: '2016-02-02'
+      home: Norwich City FC
+      score:
+         final: 0-3
+      visitors: Tottenham Hotspur FC
+   -  date: '2016-02-02'
+      home: Sunderland AFC
+      score:
+         final: 0-1
+      visitors: Manchester City FC
+   -  date: '2016-02-02'
+      home: Leicester City FC
+      score:
+         final: 2-0
+      visitors: Liverpool FC
+   -  date: '2016-02-02'
+      home: Crystal Palace FC
+      score:
+         final: 1-2
+      visitors: AFC Bournemouth
+   -  date: '2016-02-02'
+      home: West Bromwich Albion FC
+      score:
+         final: 1-1
+      visitors: Swansea City FC
+   -  date: '2016-02-02'
+      home: Manchester United FC
+      score:
+         final: 3-0
+      visitors: Stoke City FC
+   -  date: '2016-02-03'
+      home: Everton FC
+      score:
+         final: 3-0
+      visitors: Newcastle United FC
+   -  date: '2016-02-03'
+      home: Watford FC
+      score:
+         final: 0-0
+      visitors: Chelsea FC
+   name: Matchday 24
+-  matches:
+   -  date: '2016-02-06'
+      home: Swansea City FC
+      score:
+         final: 1-1
+      visitors: Crystal Palace FC
+   -  date: '2016-02-06'
+      home: Newcastle United FC
+      score:
+         final: 1-0
+      visitors: West Bromwich Albion FC
+   -  date: '2016-02-06'
+      home: Manchester City FC
+      score:
+         final: 1-3
+      visitors: Leicester City FC
+   -  date: '2016-02-06'
+      home: Liverpool FC
+      score:
+         final: 2-2
+      visitors: Sunderland AFC
+   -  date: '2016-02-06'
+      home: Southampton FC
+      score:
+         final: 1-0
+      visitors: West Ham United FC
+   -  date: '2016-02-06'
+      home: Tottenham Hotspur FC
+      score:
+         final: 1-0
+      visitors: Watford FC
+   -  date: '2016-02-06'
+      home: Stoke City FC
+      score:
+         final: 0-3
+      visitors: Everton FC
+   -  date: '2016-02-06'
+      home: Aston Villa FC
+      score:
+         final: 2-0
+      visitors: Norwich City FC
+   -  date: '2016-02-07'
+      home: AFC Bournemouth
+      score:
+         final: 0-2
+      visitors: Arsenal FC
+   -  date: '2016-02-07'
+      home: Chelsea FC
+      score:
+         final: 1-1
+      visitors: Manchester United FC
+   name: Matchday 25
+-  matches:
+   -  date: '2016-02-13'
+      home: Norwich City FC
+      score:
+         final: 2-2
+      visitors: West Ham United FC
+   -  date: '2016-02-13'
+      home: Crystal Palace FC
+      score:
+         final: 1-2
+      visitors: Watford FC
+   -  date: '2016-02-13'
+      home: Sunderland AFC
+      score:
+         final: 2-1
+      visitors: Manchester United FC
+   -  date: '2016-02-13'
+      home: Everton FC
+      score:
+         final: 0-1
+      visitors: West Bromwich Albion FC
+   -  date: '2016-02-13'
+      home: AFC Bournemouth
+      score:
+         final: 1-3
+      visitors: Stoke City FC
+   -  date: '2016-02-13'
+      home: Swansea City FC
+      score:
+         final: 0-1
+      visitors: Southampton FC
+   -  date: '2016-02-13'
+      home: Chelsea FC
+      score:
+         final: 5-1
+      visitors: Newcastle United FC
+   -  date: '2016-02-14'
+      home: Arsenal FC
+      score:
+         final: 2-1
+      visitors: Leicester City FC
+   -  date: '2016-02-14'
+      home: Aston Villa FC
+      score:
+         final: 0-6
+      visitors: Liverpool FC
+   -  date: '2016-02-14'
+      home: Manchester City FC
+      score:
+         final: 1-2
+      visitors: Tottenham Hotspur FC
+   name: Matchday 26
+-  matches:
+   -  date: '2016-02-27'
+      home: Stoke City FC
+      score:
+         final: 2-1
+      visitors: Aston Villa FC
+   -  date: '2016-02-27'
+      home: West Bromwich Albion FC
+      score:
+         final: 3-2
+      visitors: Crystal Palace FC
+   -  date: '2016-02-27'
+      home: Watford FC
+      score:
+         final: 0-0
+      visitors: AFC Bournemouth
+   -  date: '2016-02-27'
+      home: Southampton FC
+      score:
+         final: 1-2
+      visitors: Chelsea FC
+   -  date: '2016-02-27'
+      home: Leicester City FC
+      score:
+         final: 1-0
+      visitors: Norwich City FC
+   -  date: '2016-02-27'
+      home: West Ham United FC
+      score:
+         final: 1-0
+      visitors: Sunderland AFC
+   -  date: '2016-02-28'
+      home: Manchester United FC
+      score:
+         final: 3-2
+      visitors: Arsenal FC
+   -  date: '2016-02-28'
+      home: Tottenham Hotspur FC
+      score:
+         final: 2-1
+      visitors: Swansea City FC
+   -  date: '2016-04-19'
+      home: Newcastle United FC
+      score:
+         final: 1-1
+      visitors: Manchester City FC
+   -  date: '2016-04-20'
+      home: Liverpool FC
+      score:
+         final: 4-0
+      visitors: Everton FC
+   name: Matchday 27
+-  matches:
+   -  date: '2016-03-01'
+      home: Leicester City FC
+      score:
+         final: 2-2
+      visitors: West Bromwich Albion FC
+   -  date: '2016-03-01'
+      home: Aston Villa FC
+      score:
+         final: 1-3
+      visitors: Everton FC
+   -  date: '2016-03-01'
+      home: Sunderland AFC
+      score:
+         final: 2-2
+      visitors: Crystal Palace FC
+   -  date: '2016-03-01'
+      home: AFC Bournemouth
+      score:
+         final: 2-0
+      visitors: Southampton FC
+   -  date: '2016-03-01'
+      home: Norwich City FC
+      score:
+         final: 1-2
+      visitors: Chelsea FC
+   -  date: '2016-03-02'
+      home: Stoke City FC
+      score:
+         final: 1-0
+      visitors: Newcastle United FC
+   -  date: '2016-03-02'
+      home: Arsenal FC
+      score:
+         final: 1-2
+      visitors: Swansea City FC
+   -  date: '2016-03-02'
+      home: West Ham United FC
+      score:
+         final: 1-0
+      visitors: Tottenham Hotspur FC
+   -  date: '2016-03-02'
+      home: Manchester United FC
+      score:
+         final: 1-0
+      visitors: Watford FC
+   -  date: '2016-03-02'
+      home: Liverpool FC
+      score:
+         final: 3-0
+      visitors: Manchester City FC
+   name: Matchday 28
+-  matches:
+   -  date: '2016-03-05'
+      home: Newcastle United FC
+      score:
+         final: 1-3
+      visitors: AFC Bournemouth
+   -  date: '2016-03-05'
+      home: Tottenham Hotspur FC
+      score:
+         final: 2-2
+      visitors: Arsenal FC
+   -  date: '2016-03-05'
+      home: Swansea City FC
+      score:
+         final: 1-0
+      visitors: Norwich City FC
+   -  date: '2016-03-05'
+      home: Watford FC
+      score:
+         final: 0-1
+      visitors: Leicester City FC
+   -  date: '2016-03-05'
+      home: Everton FC
+      score:
+         final: 2-3
+      visitors: West Ham United FC
+   -  date: '2016-03-05'
+      home: Manchester City FC
+      score:
+         final: 4-0
+      visitors: Aston Villa FC
+   -  date: '2016-03-05'
+      home: Chelsea FC
+      score:
+         final: 1-1
+      visitors: Stoke City FC
+   -  date: '2016-03-05'
+      home: Southampton FC
+      score:
+         final: 1-1
+      visitors: Sunderland AFC
+   -  date: '2016-03-06'
+      home: Crystal Palace FC
+      score:
+         final: 1-2
+      visitors: Liverpool FC
+   -  date: '2016-03-06'
+      home: West Bromwich Albion FC
+      score:
+         final: 1-0
+      visitors: Manchester United FC
+   name: Matchday 29
+-  matches:
+   -  date: '2016-03-12'
+      home: Norwich City FC
+      score:
+         final: 0-0
+      visitors: Manchester City FC
+   -  date: '2016-03-12'
+      home: Stoke City FC
+      score:
+         final: 1-2
+      visitors: Southampton FC
+   -  date: '2016-03-12'
+      home: AFC Bournemouth
+      score:
+         final: 3-2
+      visitors: Swansea City FC
+   -  date: '2016-03-13'
+      home: Aston Villa FC
+      score:
+         final: 0-2
+      visitors: Tottenham Hotspur FC
+   -  date: '2016-03-14'
+      home: Leicester City FC
+      score:
+         final: 1-0
+      visitors: Newcastle United FC
+   -  date: '2016-04-20'
+      home: Manchester United FC
+      score:
+         final: 2-0
+      visitors: Crystal Palace FC
+   -  date: '2016-04-20'
+      home: West Ham United FC
+      score:
+         final: 3-1
+      visitors: Watford FC
+   -  date: '2016-04-21'
+      home: Arsenal FC
+      score:
+         final: 2-0
+      visitors: West Bromwich Albion FC
+   -  date: '2016-05-11'
+      home: Sunderland AFC
+      score:
+         final: 3-0
+      visitors: Everton FC
+   -  date: '2016-05-11'
+      home: Liverpool FC
+      score:
+         final: 1-1
+      visitors: Chelsea FC
+   name: Matchday 30
+-  matches:
+   -  date: '2016-03-19'
+      home: Watford FC
+      score:
+         final: 1-2
+      visitors: Stoke City FC
+   -  date: '2016-03-19'
+      home: Everton FC
+      score:
+         final: 0-2
+      visitors: Arsenal FC
+   -  date: '2016-03-19'
+      home: Crystal Palace FC
+      score:
+         final: 0-1
+      visitors: Leicester City FC
+   -  date: '2016-03-19'
+      home: Swansea City FC
+      score:
+         final: 1-0
+      visitors: Aston Villa FC
+   -  date: '2016-03-19'
+      home: Chelsea FC
+      score:
+         final: 2-2
+      visitors: West Ham United FC
+   -  date: '2016-03-19'
+      home: West Bromwich Albion FC
+      score:
+         final: 0-1
+      visitors: Norwich City FC
+   -  date: '2016-03-20'
+      home: Newcastle United FC
+      score:
+         final: 1-1
+      visitors: Sunderland AFC
+   -  date: '2016-03-20'
+      home: Manchester City FC
+      score:
+         final: 0-1
+      visitors: Manchester United FC
+   -  date: '2016-03-20'
+      home: Tottenham Hotspur FC
+      score:
+         final: 3-0
+      visitors: AFC Bournemouth
+   -  date: '2016-03-20'
+      home: Southampton FC
+      score:
+         final: 3-2
+      visitors: Liverpool FC
+   name: Matchday 31
+-  matches:
+   -  date: '2016-04-02'
+      home: Aston Villa FC
+      score:
+         final: 0-4
+      visitors: Chelsea FC
+   -  date: '2016-04-02'
+      home: AFC Bournemouth
+      score:
+         final: 0-4
+      visitors: Manchester City FC
+   -  date: '2016-04-02'
+      home: Liverpool FC
+      score:
+         final: 1-1
+      visitors: Tottenham Hotspur FC
+   -  date: '2016-04-02'
+      home: Stoke City FC
+      score:
+         final: 2-2
+      visitors: Swansea City FC
+   -  date: '2016-04-02'
+      home: Norwich City FC
+      score:
+         final: 3-2
+      visitors: Newcastle United FC
+   -  date: '2016-04-02'
+      home: West Ham United FC
+      score:
+         final: 2-2
+      visitors: Crystal Palace FC
+   -  date: '2016-04-02'
+      home: Sunderland AFC
+      score:
+         final: 0-0
+      visitors: West Bromwich Albion FC
+   -  date: '2016-04-02'
+      home: Arsenal FC
+      score:
+         final: 4-0
+      visitors: Watford FC
+   -  date: '2016-04-03'
+      home: Leicester City FC
+      score:
+         final: 1-0
+      visitors: Southampton FC
+   -  date: '2016-04-03'
+      home: Manchester United FC
+      score:
+         final: 1-0
+      visitors: Everton FC
+   name: Matchday 32
+-  matches:
+   -  date: '2016-04-09'
+      home: Southampton FC
+      score:
+         final: 3-1
+      visitors: Newcastle United FC
+   -  date: '2016-04-09'
+      home: Manchester City FC
+      score:
+         final: 2-1
+      visitors: West Bromwich Albion FC
+   -  date: '2016-04-09'
+      home: West Ham United FC
+      score:
+         final: 3-3
+      visitors: Arsenal FC
+   -  date: '2016-04-09'
+      home: Aston Villa FC
+      score:
+         final: 1-2
+      visitors: AFC Bournemouth
+   -  date: '2016-04-09'
+      home: Swansea City FC
+      score:
+         final: 1-0
+      visitors: Chelsea FC
+   -  date: '2016-04-09'
+      home: Crystal Palace FC
+      score:
+         final: 1-0
+      visitors: Norwich City FC
+   -  date: '2016-04-09'
+      home: Watford FC
+      score:
+         final: 1-1
+      visitors: Everton FC
+   -  date: '2016-04-10'
+      home: Sunderland AFC
+      score:
+         final: 0-2
+      visitors: Leicester City FC
+   -  date: '2016-04-10'
+      home: Tottenham Hotspur FC
+      score:
+         final: 3-0
+      visitors: Manchester United FC
+   -  date: '2016-04-10'
+      home: Liverpool FC
+      score:
+         final: 4-1
+      visitors: Stoke City FC
+   name: Matchday 33
+-  matches:
+   -  date: '2016-04-13'
+      home: Crystal Palace FC
+      score:
+         final: 0-0
+      visitors: Everton FC
+   -  date: '2016-04-23'
+      home: Manchester City FC
+      score:
+         final: 4-0
+      visitors: Stoke City FC
+   -  date: '2016-04-23'
+      home: AFC Bournemouth
+      score:
+         final: 1-4
+      visitors: Chelsea FC
+   -  date: '2016-04-23'
+      home: Aston Villa FC
+      score:
+         final: 2-4
+      visitors: Southampton FC
+   -  date: '2016-04-23'
+      home: Liverpool FC
+      score:
+         final: 2-2
+      visitors: Newcastle United FC
+   -  date: '2016-04-24'
+      home: Sunderland AFC
+      score:
+         final: 0-0
+      visitors: Arsenal FC
+   -  date: '2016-04-24'
+      home: Leicester City FC
+      score:
+         final: 4-0
+      visitors: Swansea City FC
+   -  date: '2016-04-25'
+      home: Tottenham Hotspur FC
+      score:
+         final: 1-1
+      visitors: West Bromwich Albion FC
+   -  date: '2016-05-10'
+      home: West Ham United FC
+      score:
+         final: 3-2
+      visitors: Manchester United FC
+   -  date: '2016-05-11'
+      home: Norwich City FC
+      score:
+         final: 4-2
+      visitors: Watford FC
+   name: Matchday 35
+-  matches:
+   -  date: '2016-04-16'
+      home: Norwich City FC
+      score:
+         final: 0-3
+      visitors: Sunderland AFC
+   -  date: '2016-04-16'
+      home: Manchester United FC
+      score:
+         final: 1-0
+      visitors: Aston Villa FC
+   -  date: '2016-04-16'
+      home: Newcastle United FC
+      score:
+         final: 3-0
+      visitors: Swansea City FC
+   -  date: '2016-04-16'
+      home: Everton FC
+      score:
+         final: 1-1
+      visitors: Southampton FC
+   -  date: '2016-04-16'
+      home: Chelsea FC
+      score:
+         final: 0-3
+      visitors: Manchester City FC
+   -  date: '2016-04-16'
+      home: West Bromwich Albion FC
+      score:
+         final: 0-1
+      visitors: Watford FC
+   -  date: '2016-04-17'
+      home: Leicester City FC
+      score:
+         final: 2-2
+      visitors: West Ham United FC
+   -  date: '2016-04-17'
+      home: AFC Bournemouth
+      score:
+         final: 1-2
+      visitors: Liverpool FC
+   -  date: '2016-04-17'
+      home: Arsenal FC
+      score:
+         final: 1-1
+      visitors: Crystal Palace FC
+   -  date: '2016-04-18'
+      home: Stoke City FC
+      score:
+         final: 0-4
+      visitors: Tottenham Hotspur FC
+   name: Matchday 34
+-  matches:
+   -  date: '2016-04-30'
+      home: Stoke City FC
+      score:
+         final: 1-1
+      visitors: Sunderland AFC
+   -  date: '2016-04-30'
+      home: Newcastle United FC
+      score:
+         final: 1-0
+      visitors: Crystal Palace FC
+   -  date: '2016-04-30'
+      home: Watford FC
+      score:
+         final: 3-2
+      visitors: Aston Villa FC
+   -  date: '2016-04-30'
+      home: Everton FC
+      score:
+         final: 2-1
+      visitors: AFC Bournemouth
+   -  date: '2016-04-30'
+      home: Arsenal FC
+      score:
+         final: 1-0
+      visitors: Norwich City FC
+   -  date: '2016-04-30'
+      home: West Bromwich Albion FC
+      score:
+         final: 0-3
+      visitors: West Ham United FC
+   -  date: '2016-05-01'
+      home: Swansea City FC
+      score:
+         final: 3-1
+      visitors: Liverpool FC
+   -  date: '2016-05-01'
+      home: Manchester United FC
+      score:
+         final: 1-1
+      visitors: Leicester City FC
+   -  date: '2016-05-01'
+      home: Southampton FC
+      score:
+         final: 4-2
+      visitors: Manchester City FC
+   -  date: '2016-05-02'
+      home: Chelsea FC
+      score:
+         final: 2-2
+      visitors: Tottenham Hotspur FC
+   name: Matchday 36
+-  matches:
+   -  date: '2016-05-07'
+      home: Crystal Palace FC
+      score:
+         final: 2-1
+      visitors: Stoke City FC
+   -  date: '2016-05-07'
+      home: Norwich City FC
+      score:
+         final: 0-1
+      visitors: Manchester United FC
+   -  date: '2016-05-07'
+      home: Aston Villa FC
+      score:
+         final: 0-0
+      visitors: Newcastle United FC
+   -  date: '2016-05-07'
+      home: Leicester City FC
+      score:
+         final: 3-1
+      visitors: Everton FC
+   -  date: '2016-05-07'
+      home: Sunderland AFC
+      score:
+         final: 3-2
+      visitors: Chelsea FC
+   -  date: '2016-05-07'
+      home: West Ham United FC
+      score:
+         final: 1-4
+      visitors: Swansea City FC
+   -  date: '2016-05-07'
+      home: AFC Bournemouth
+      score:
+         final: 1-1
+      visitors: West Bromwich Albion FC
+   -  date: '2016-05-08'
+      home: Tottenham Hotspur FC
+      score:
+         final: 1-2
+      visitors: Southampton FC
+   -  date: '2016-05-08'
+      home: Liverpool FC
+      score:
+         final: 2-0
+      visitors: Watford FC
+   -  date: '2016-05-08'
+      home: Manchester City FC
+      score:
+         final: 2-2
+      visitors: Arsenal FC
+   name: Matchday 37
+-  matches:
+   -  date: '2016-05-15'
+      home: Arsenal FC
+      score:
+         final: 4-0
+      visitors: Aston Villa FC
+   -  date: '2016-05-15'
+      home: Stoke City FC
+      score:
+         final: 2-1
+      visitors: West Ham United FC
+   -  date: '2016-05-15'
+      home: Swansea City FC
+      score:
+         final: 1-1
+      visitors: Manchester City FC
+   -  date: '2016-05-15'
+      home: Southampton FC
+      score:
+         final: 4-1
+      visitors: Crystal Palace FC
+   -  date: '2016-05-15'
+      home: Newcastle United FC
+      score:
+         final: 5-1
+      visitors: Tottenham Hotspur FC
+   -  date: '2016-05-15'
+      home: West Bromwich Albion FC
+      score:
+         final: 1-1
+      visitors: Liverpool FC
+   -  date: '2016-05-15'
+      home: Watford FC
+      score:
+         final: 2-2
+      visitors: Sunderland AFC
+   -  date: '2016-05-15'
+      home: Everton FC
+      score:
+         final: 3-0
+      visitors: Norwich City FC
+   -  date: '2016-05-15'
+      home: Chelsea FC
+      score:
+         final: 1-1
+      visitors: Leicester City FC
+   -  date: '2016-05-17'
+      home: Manchester United FC
+      score:
+         final: 3-1
+      visitors: AFC Bournemouth
+   name: Matchday 38
